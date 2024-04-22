@@ -19,7 +19,7 @@
 }
 
 /* index */
-@media (max-width: 375px) {
+@media (max-width: 475px) {
   .head-info .logo img {
     width: 115px;
     margin-left: 12px;
@@ -447,7 +447,7 @@
 }
 
 /* yslugi */
-@media (max-width: 375px) {
+@media (max-width: 475px) {
   .main-yslugi {
     padding-top: 20px;
     padding-bottom: 20px;
@@ -558,7 +558,7 @@
 }
 
 /* reviews */
-@media (max-width: 375px) {
+@media (max-width: 475px) {
   .strelkiSlaider {
     display: flex;
     align-items: center;
